@@ -29,7 +29,8 @@
 8 небо
 9 любовь
 10 свет
-![alt text](http://url/to/ж.png)
+![Alt text](/relative/path/to/ж.png?raw=true
+
 
 Пушкин 
 

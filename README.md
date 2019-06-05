@@ -30,6 +30,7 @@
 9 любовь
 10 свет
 
+![Image alt](https://github.com/{marfaaa}/{Project}/raw/{master}/{image}/ж.png)
 
 
 Пушкин 

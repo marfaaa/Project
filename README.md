@@ -30,7 +30,7 @@
 9 любовь
 10 свет
 
-https://github.com/jon/coolproject/raw/master/image/ж.png
+
 
 Пушкин 
 
@@ -44,8 +44,8 @@ https://github.com/jon/coolproject/raw/master/image/ж.png
  8 небо
 9 жизнь 
 10 глаз
-![alt text](http://url/to/п.png)
 
+![alt text](http://url/to/бл.png)
 Лермонтов
 
 1 правда

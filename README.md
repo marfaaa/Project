@@ -30,7 +30,7 @@
 9 любовь
 10 свет
 
-![Image alt](https://github.com/{marfaaa}/{Project}/raw/{master}/{image}/ж.png)
+
 
 
 Пушкин 
@@ -45,8 +45,8 @@
  8 небо
 9 жизнь 
 10 глаз
+https://github.com/marfaaa/Project/blob/master/%D0%B6.png
 
-![alt text](http://url/to/бл.png)
 Лермонтов
 
 1 правда

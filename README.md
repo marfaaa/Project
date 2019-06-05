@@ -30,7 +30,7 @@
 9 любовь
 10 свет
 
-
+[logo]: resources/ж.png 
 
 
 Пушкин 
@@ -45,7 +45,7 @@
  8 небо
 9 жизнь 
 10 глаз
-![]https://github.com/marfaaa/Project/blob/master/%D0%B6.png
+
 
 Лермонтов
 

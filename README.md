@@ -29,9 +29,7 @@
 8 небо
 9 любовь
 10 свет
-![Alt text](/relative/path/to/ж.png?raw=true
-
-
+https://github.com/jon/coolproject/raw/master/image/ж.png
 Пушкин 
 
 1 день
